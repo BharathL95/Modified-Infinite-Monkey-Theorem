@@ -1,1 +1,3 @@
 # Modified Infinite Monkey Theorem
+
+This is a simple iteration of the infinite monkey theorem, which "states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type a given text, such as the complete works of William Shakespeare." (Miller, Ranum) The program prompts the user to submit any sentence, and it will run through a trials, first generating a completely random string, and then changing characters in the trial string that do not match the target. The program accepts any printable character, such as upper and lower case letters, numbers, punctuation, and whitespace characters.
